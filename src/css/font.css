@@ -1,0 +1,42 @@
+/* Gilroy-regular*/
+/*@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('./fonts/Gilroy-Regular.woff2') format('woff2');
+}*/
+/* Gilroy-500 */
+/*@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''), url('./fonts/Gilroy-Medium.woff2') format('woff2');
+}*/
+/* Gilroy-700 */
+/*@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('./fonts//Gilroy-Bold.woff2') format('woff2');
+}*/
+/* Montserrat-regular*/
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('./fonts/Montserrat-VariableFont_wght.ttf') format('ttf');
+}
+/* Montserrat-500*/
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''), url('./fonts/Montserrat-VariableFont_wght.ttf') format('ttf');
+}
+/* Montserrat-700*/
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('./fonts/Montserrat-VariableFont_wght.ttf') format('ttf');
+}

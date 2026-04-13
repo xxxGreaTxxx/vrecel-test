@@ -1,0 +1,199 @@
+/*@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham Bold'), local('Gotham-Bold'),
+      url('../fonts/GothamBold/Gotham-Bold.woff2') format('woff2'),
+      url('../fonts/GothamBold/Gotham-Bold.woff') format('woff'),
+      url('../fonts/GothamBold/Gotham-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham Regular'), local('Gotham-Book'),
+      url('../fonts/GothamRegular/Gotham-Regular.woff2') format('woff2'),
+      url('../fonts/GothamRegular/Gotham-Regular.woff') format('woff'),
+      url('../fonts/GothamRegular/Gotham-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+:root {
+  --tt-color-green: #B4E913;
+  --tt-color-green-text: #9FCE10;
+  --tt-color-black: #323238;
+  --tt-color-white: #fff;
+  --tt-color-gray: #54555F;
+  --tt-color-gray-light: #E0E1E9;
+  --tt-color-gray-lightest: #F5F5F8;
+}
+
+#allrecords #trading-tools ul,
+#allrecords #trading-tools-mt5 ul {
+	padding: 0;
+	margin-bottom: 34px;
+}
+
+#allrecords #trading-tools b, 
+#allrecords #trading-tools strong,
+#allrecords #trading-tools-mob b, 
+#allrecords #trading-tools-mob strong,
+#allrecords #trading-tools-mt5 b, 
+#allrecords #trading-tools-mt5 strong,
+#allrecords #trading-tools-mob-mt5 b, 
+#allrecords #trading-tools-mob-mt5 strong {
+	font-weight: 500;
+}
+
+#allrecords #trading-tools-mob b, 
+#allrecords #trading-tools-mob strong,
+#allrecords #trading-tools-mob-mt5 b, 
+#allrecords #trading-tools-mob-mt5 strong {
+	text-decoration: underline;
+}
+
+#trading-tools,
+#trading-tools-mob,
+#trading-tools-mt5,
+#trading-tools-mob-mt5 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 14px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 50px 0;
+  color: var(--tt-color-black);
+  /*overflow: auto;*/
+}
+
+/*#trading-tools-mob {
+  font-family: 'Montserrat';
+}*/
+
+.trading-tools__tabs {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-bottom: 24px;
+}
+
+.trading-tools__tab {
+  width: 175px;
+  padding: 8px 24px;
+  gap: 24px;
+  border-radius: 276px;
+  background: var(--tt-color-gray-lightest);
+  box-shadow: -6px -6px 14.4px 0px #FFF, 2px 2px 12.5px 0px #D2D2E2;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  transition: all 0.2s ease;
+  margin-right: 12px;
+  cursor: pointer;
+  border: 1px solid var(--tt-color-gray-lightest);
+  text-transform: uppercase;
+}
+
+.trading-tools__tab:hover {
+	border: 1px solid var(--tt-color-green);
+	color: var(--tt-color-green-text);
+}
+
+.trading-tools__tab--active {
+  background: linear-gradient(99deg, #B7E70D 3.91%, #8BCC00 101.9%);
+  color: var(--tt-color-white);
+  border: none;
+  border: 1px solid var(--tt-color-green);
+}
+
+.trading-tools__tab--active:hover {
+  color: var(--tt-color-white);
+}
+
+.trading-tools__markets {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 21px;
+}
+
+.trading-tools__market {
+  display: flex;
+  color: var(--tt-color-black);
+  /*padding: 15px 7px;*/
+  white-space: nowrap;
+  transition: all 0.2s ease;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  gap: 2px;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.trading-tools__market.active {
+  color: var(--tt-color-green-text);
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.trading-tools__market-name {
+	text-decoration: underline;
+}
+
+.trading-tools__markets-count {
+  font-size: 10px;
+  padding-left: 2px;
+}
+
+/* .trading-tools__table {
+  min-width: 1280px;
+} */
+
+.trading-tools__table table {
+  width: 100%;
+  padding: 32px;
+  border-radius: 12px;
+  background: var(--tt-color-gray-lightest);
+  box-shadow: -5px -3px 17.5px 0px rgba(255, 255, 255, 0.55), 4px 4px 11.6px 0px rgba(201, 203, 211, 0.12), -4px -1px 13.9px 0px #FFF inset, 2px 3px 4.6px 0px #DFDFE9 inset;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.trading-tools__table table tr th {
+  text-align: left;
+  /*color: var(--tt-color-gray);*/
+  color: #797982;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 130%;
+  padding-bottom: 12px;
+  width: 114px;
+}
+
+/*.trading-tools__table table tbody tr {
+	border-bottom: 1px solid var(--tt-color-gray-light);
+}*/
+
+.trading-tools__table table tr td {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 130%;
+  text-align: left;
+  color: var(--tt-color-black);
+  padding: 24px 0;
+  border-bottom: 1px solid var(--tt-color-gray-light);
+}
+
+@media (max-width: 960px) {
+  .trading-tools__markets-count {
+	font-size: inherit;
+  }
+  .trading-tools__market {
+	text-decoration: underline;
+  }
+  .trading-tools__market-name {
+	text-decoration: none;
+  }
+}
