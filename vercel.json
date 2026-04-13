@@ -1,617 +1,615 @@
 {
-	"cleanUrls": false,
-	"trailingSlash": false,
 	"rewrites": [
 		{
 			"source": "/",
 			"destination": "/page59010137.html"
 		},
 		{
-			"source": "^/genesis-ru/?$",
+			"source": "/genesis-ru(/)",
 			"destination": "/page131798076.html"
 		},
 		{
-			"source": "^/genesis-tay/?$",
+			"source": "/genesis-tay(/)",
 			"destination": "/page127518376.html"
 		},
 		{
-			"source": "^/genesis/?$",
+			"source": "/genesis(/)",
 			"destination": "/page127539636.html"
 		},
 		{
-			"source": "^/account_types/?$",
+			"source": "/account_types(/)",
 			"destination": "/page64908577.html"
 		},
 		{
-			"source": "^/genesis-ru-policy/?$",
+			"source": "/genesis-ru-policy(/)",
 			"destination": "/page131798106.html"
 		},
 		{
-			"source": "^/genesis-tay-policy/?$",
+			"source": "/genesis-tay-policy(/)",
 			"destination": "/page127518406.html"
 		},
 		{
-			"source": "^/genesis-policy/?$",
+			"source": "/genesis-policy(/)",
 			"destination": "/page127539676.html"
 		},
 		{
-			"source": "^/deposit/?$",
+			"source": "/deposit(/)",
 			"destination": "/page58737235.html"
 		},
 		{
-			"source": "^/withdraw/?$",
+			"source": "/withdraw(/)",
 			"destination": "/page58737239.html"
 		},
 		{
-			"source": "^/leverage/?$",
+			"source": "/leverage(/)",
 			"destination": "/page64836693.html"
 		},
 		{
-			"source": "^/trading_tools/?$",
+			"source": "/trading_tools(/)",
 			"destination": "/page58737241.html"
 		},
 		{
-			"source": "^/how/?$",
+			"source": "/how(/)",
 			"destination": "/page59032255.html"
 		},
 		{
-			"source": "^/market_review/?$",
+			"source": "/market_review(/)",
 			"destination": "/page58828031.html"
 		},
 		{
-			"source": "^/mt4/?$",
+			"source": "/mt4(/)",
 			"destination": "/page59081947.html"
 		},
 		{
-			"source": "^/mt5/?$",
+			"source": "/mt5(/)",
 			"destination": "/page60581169.html"
 		},
 		{
-			"source": "^/economic_calendar/?$",
+			"source": "/economic_calendar(/)",
 			"destination": "/page63905873.html"
 		},
 		{
-			"source": "^/copytrading/?$",
+			"source": "/copytrading(/)",
 			"destination": "/page58834809.html"
 		},
 		{
-			"source": "^/ib/?$",
+			"source": "/ib(/)",
 			"destination": "/page58884423.html"
 		},
 		{
-			"source": "^/multilevel/?$",
+			"source": "/multilevel(/)",
 			"destination": "/page59033353.html"
 		},
 		{
-			"source": "^/news/?$",
+			"source": "/news(/)",
 			"destination": "/page58737243.html"
 		},
 		{
-			"source": "^/faq/?$",
+			"source": "/faq(/)",
 			"destination": "/page58737245.html"
 		},
 		{
-			"source": "^/about/?$",
+			"source": "/about(/)",
 			"destination": "/page58737251.html"
 		},
 		{
-			"source": "^/liquidity/?$",
+			"source": "/liquidity(/)",
 			"destination": "/page58737249.html"
 		},
 		{
-			"source": "^/contacts/?$",
+			"source": "/contacts(/)",
 			"destination": "/page58737253.html"
 		},
 		{
-			"source": "^/documents/?$",
+			"source": "/documents(/)",
 			"destination": "/page58737255.html"
 		},
 		{
-			"source": "^/account_types_old/?$",
+			"source": "/account_types_old(/)",
 			"destination": "/page59024063.html"
 		},
 		{
-			"source": "^/some-reviews/?$",
+			"source": "/some-reviews(/)",
 			"destination": "/page104945596.html"
 		},
 		{
-			"source": "^/news_10_03_2026/?$",
+			"source": "/news_10_03_2026(/)",
 			"destination": "/page125421946.html"
 		},
 		{
-			"source": "^/news_05_03_2026/?$",
+			"source": "/news_05_03_2026(/)",
 			"destination": "/page124274356.html"
 		},
 		{
-			"source": "^/news_24_02_2026/?$",
+			"source": "/news_24_02_2026(/)",
 			"destination": "/page121475476.html"
 		},
 		{
-			"source": "^/news_17_02_2026/?$",
+			"source": "/news_17_02_2026(/)",
 			"destination": "/page119431456.html"
 		},
 		{
-			"source": "^/news_12_02_2026/?$",
+			"source": "/news_12_02_2026(/)",
 			"destination": "/page118404346.html"
 		},
 		{
-			"source": "^/news_30_01_2026/?$",
+			"source": "/news_30_01_2026(/)",
 			"destination": "/page114661766.html"
 		},
 		{
-			"source": "^/news_15_01_2026/?$",
+			"source": "/news_15_01_2026(/)",
 			"destination": "/page110527266.html"
 		},
 		{
-			"source": "^/news_18_12_2025_1/?$",
+			"source": "/news_18_12_2025_1(/)",
 			"destination": "/page105027706.html"
 		},
 		{
-			"source": "^/news_18_12_2025/?$",
+			"source": "/news_18_12_2025(/)",
 			"destination": "/page103405656.html"
 		},
 		{
-			"source": "^/news_12_12_2025/?$",
+			"source": "/news_12_12_2025(/)",
 			"destination": "/page103323046.html"
 		},
 		{
-			"source": "^/news_01_12_2025/?$",
+			"source": "/news_01_12_2025(/)",
 			"destination": "/page99911836.html"
 		},
 		{
-			"source": "^/news_24_11_2025/?$",
+			"source": "/news_24_11_2025(/)",
 			"destination": "/page97845386.html"
 		},
 		{
-			"source": "^/news_14_11_2025/?$",
+			"source": "/news_14_11_2025(/)",
 			"destination": "/page95115816.html"
 		},
 		{
-			"source": "^/news_22_10_2025_1/?$",
+			"source": "/news_22_10_2025_1(/)",
 			"destination": "/page88573536.html"
 		},
 		{
-			"source": "^/news_22_10_2025/?$",
+			"source": "/news_22_10_2025(/)",
 			"destination": "/page88490476.html"
 		},
 		{
-			"source": "^/news_08_10_2025/?$",
+			"source": "/news_08_10_2025(/)",
 			"destination": "/page84263186.html"
 		},
 		{
-			"source": "^/news_30_09_2025/?$",
+			"source": "/news_30_09_2025(/)",
 			"destination": "/page82254826.html"
 		},
 		{
-			"source": "^/news_28_08_2025/?$",
+			"source": "/news_28_08_2025(/)",
 			"destination": "/page74513177.html"
 		},
 		{
-			"source": "^/news_21_08_2025/?$",
+			"source": "/news_21_08_2025(/)",
 			"destination": "/page74199901.html"
 		},
 		{
-			"source": "^/news_25_07_2025/?$",
+			"source": "/news_25_07_2025(/)",
 			"destination": "/page72898423.html"
 		},
 		{
-			"source": "^/news_01_07_2025/?$",
+			"source": "/news_01_07_2025(/)",
 			"destination": "/page71702535.html"
 		},
 		{
-			"source": "^/news_13_06_2025/?$",
+			"source": "/news_13_06_2025(/)",
 			"destination": "/page70746613.html"
 		},
 		{
-			"source": "^/news_22_05_2025/?$",
+			"source": "/news_22_05_2025(/)",
 			"destination": "/page69420013.html"
 		},
 		{
-			"source": "^/news_21_05_2025/?$",
+			"source": "/news_21_05_2025(/)",
 			"destination": "/page69354665.html"
 		},
 		{
-			"source": "^/news_13_05_2025/?$",
+			"source": "/news_13_05_2025(/)",
 			"destination": "/page68808655.html"
 		},
 		{
-			"source": "^/news_30_04_2025/?$",
+			"source": "/news_30_04_2025(/)",
 			"destination": "/page68021697.html"
 		},
 		{
-			"source": "^/news_10_04_2025/?$",
+			"source": "/news_10_04_2025(/)",
 			"destination": "/page66747211.html"
 		},
 		{
-			"source": "^/news_03_04_2025/?$",
+			"source": "/news_03_04_2025(/)",
 			"destination": "/page66243875.html"
 		},
 		{
-			"source": "^/news_05_03_2025/?$",
+			"source": "/news_05_03_2025(/)",
 			"destination": "/page64417959.html"
 		},
 		{
-			"source": "^/news_12_02_2025/?$",
+			"source": "/news_12_02_2025(/)",
 			"destination": "/page63087055.html"
 		},
 		{
-			"source": "^/news_11_02_2025/?$",
+			"source": "/news_11_02_2025(/)",
 			"destination": "/page62641021.html"
 		},
 		{
-			"source": "^/news_10_02_2025/?$",
+			"source": "/news_10_02_2025(/)",
 			"destination": "/page62947653.html"
 		},
 		{
-			"source": "^/news_08_01_2025/?$",
+			"source": "/news_08_01_2025(/)",
 			"destination": "/page61039621.html"
 		},
 		{
-			"source": "^/news_25_12_2024/?$",
+			"source": "/news_25_12_2024(/)",
 			"destination": "/page60618467.html"
 		},
 		{
-			"source": "^/news_18_12_2024/?$",
+			"source": "/news_18_12_2024(/)",
 			"destination": "/page60253399.html"
 		},
 		{
-			"source": "^/news_16_12_2024/?$",
+			"source": "/news_16_12_2024(/)",
 			"destination": "/page60115743.html"
 		},
 		{
-			"source": "^/news_02_12_2024/?$",
+			"source": "/news_02_12_2024(/)",
 			"destination": "/page59277609.html"
 		},
 		{
-			"source": "^/news_20_11_2024/?$",
+			"source": "/news_20_11_2024(/)",
 			"destination": "/page59087719.html"
 		},
 		{
-			"source": "^/news_11_11_2024/?$",
+			"source": "/news_11_11_2024(/)",
 			"destination": "/page59087721.html"
 		},
 		{
-			"source": "^/news_25_10_2024/?$",
+			"source": "/news_25_10_2024(/)",
 			"destination": "/page59087723.html"
 		},
 		{
-			"source": "^/news_24_10_2024/?$",
+			"source": "/news_24_10_2024(/)",
 			"destination": "/page59087725.html"
 		},
 		{
-			"source": "^/news_29_08_2024/?$",
+			"source": "/news_29_08_2024(/)",
 			"destination": "/page59087727.html"
 		},
 		{
-			"source": "^/news_01_07_2024/?$",
+			"source": "/news_01_07_2024(/)",
 			"destination": "/page59087731.html"
 		},
 		{
-			"source": "^/news_07_06_2024/?$",
+			"source": "/news_07_06_2024(/)",
 			"destination": "/page59087735.html"
 		},
 		{
-			"source": "^/news_29_05_2024/?$",
+			"source": "/news_29_05_2024(/)",
 			"destination": "/page59087739.html"
 		},
 		{
-			"source": "^/news_26_04_2024/?$",
+			"source": "/news_26_04_2024(/)",
 			"destination": "/page59087749.html"
 		},
 		{
-			"source": "^/news_27_03_2024/?$",
+			"source": "/news_27_03_2024(/)",
 			"destination": "/page59087753.html"
 		},
 		{
-			"source": "^/news_26_03_2024/?$",
+			"source": "/news_26_03_2024(/)",
 			"destination": "/page59094837.html"
 		},
 		{
-			"source": "^/news_15_03_2024/?$",
+			"source": "/news_15_03_2024(/)",
 			"destination": "/page59094839.html"
 		},
 		{
-			"source": "^/news_08_03_2024/?$",
+			"source": "/news_08_03_2024(/)",
 			"destination": "/page59094841.html"
 		},
 		{
-			"source": "^/news_16_02_2024/?$",
+			"source": "/news_16_02_2024(/)",
 			"destination": "/page59094849.html"
 		},
 		{
-			"source": "^/news_29_12_2023/?$",
+			"source": "/news_29_12_2023(/)",
 			"destination": "/page59094851.html"
 		},
 		{
-			"source": "^/news_26_12_2023/?$",
+			"source": "/news_26_12_2023(/)",
 			"destination": "/page59094855.html"
 		},
 		{
-			"source": "^/news_21_12_2023/?$",
+			"source": "/news_21_12_2023(/)",
 			"destination": "/page59094859.html"
 		},
 		{
-			"source": "^/news_19_12_2023/?$",
+			"source": "/news_19_12_2023(/)",
 			"destination": "/page59094863.html"
 		},
 		{
-			"source": "^/news_12_12_2023/?$",
+			"source": "/news_12_12_2023(/)",
 			"destination": "/page59094865.html"
 		},
 		{
-			"source": "^/news_11_12_2023/?$",
+			"source": "/news_11_12_2023(/)",
 			"destination": "/page59094869.html"
 		},
 		{
-			"source": "^/news_04_12_2023/?$",
+			"source": "/news_04_12_2023(/)",
 			"destination": "/page59094871.html"
 		},
 		{
-			"source": "^/news_24_11_2023/?$",
+			"source": "/news_24_11_2023(/)",
 			"destination": "/page59094877.html"
 		},
 		{
-			"source": "^/news_21_11_2023/?$",
+			"source": "/news_21_11_2023(/)",
 			"destination": "/page59094883.html"
 		},
 		{
-			"source": "^/news_14_11_2023/?$",
+			"source": "/news_14_11_2023(/)",
 			"destination": "/page59094885.html"
 		},
 		{
-			"source": "^/news_25_10_2023/?$",
+			"source": "/news_25_10_2023(/)",
 			"destination": "/page59094889.html"
 		},
 		{
-			"source": "^/news_06_09_2023/?$",
+			"source": "/news_06_09_2023(/)",
 			"destination": "/page59094891.html"
 		},
 		{
-			"source": "^/news_29_08_2023/?$",
+			"source": "/news_29_08_2023(/)",
 			"destination": "/page59094897.html"
 		},
 		{
-			"source": "^/news_15_08_2023/?$",
+			"source": "/news_15_08_2023(/)",
 			"destination": "/page59094901.html"
 		},
 		{
-			"source": "^/news_30_06_2023/?$",
+			"source": "/news_30_06_2023(/)",
 			"destination": "/page59094903.html"
 		},
 		{
-			"source": "^/news_25_05_2023_2/?$",
+			"source": "/news_25_05_2023_2(/)",
 			"destination": "/page59094913.html"
 		},
 		{
-			"source": "^/news_25_05_2023/?$",
+			"source": "/news_25_05_2023(/)",
 			"destination": "/page59094917.html"
 		},
 		{
-			"source": "^/news_10_05_2023/?$",
+			"source": "/news_10_05_2023(/)",
 			"destination": "/page59094921.html"
 		},
 		{
-			"source": "^/news_13_04_2023/?$",
+			"source": "/news_13_04_2023(/)",
 			"destination": "/page59094927.html"
 		},
 		{
-			"source": "^/news_04_04_2023/?$",
+			"source": "/news_04_04_2023(/)",
 			"destination": "/page59094931.html"
 		},
 		{
-			"source": "^/news_08_03_2023/?$",
+			"source": "/news_08_03_2023(/)",
 			"destination": "/page59094933.html"
 		},
 		{
-			"source": "^/news_16_02_2023/?$",
+			"source": "/news_16_02_2023(/)",
 			"destination": "/page59094935.html"
 		},
 		{
-			"source": "^/news_14_02_2023/?$",
+			"source": "/news_14_02_2023(/)",
 			"destination": "/page59094939.html"
 		},
 		{
-			"source": "^/news_10_01_2023/?$",
+			"source": "/news_10_01_2023(/)",
 			"destination": "/page59094941.html"
 		},
 		{
-			"source": "^/news_20_12_2022/?$",
+			"source": "/news_20_12_2022(/)",
 			"destination": "/page59094943.html"
 		},
 		{
-			"source": "^/news_23_11_2022/?$",
+			"source": "/news_23_11_2022(/)",
 			"destination": "/page59094945.html"
 		},
 		{
-			"source": "^/news_27_10_2022/?$",
+			"source": "/news_27_10_2022(/)",
 			"destination": "/page59094949.html"
 		},
 		{
-			"source": "^/news_31_08_2022/?$",
+			"source": "/news_31_08_2022(/)",
 			"destination": "/page59094953.html"
 		},
 		{
-			"source": "^/news_30_06_2022/?$",
+			"source": "/news_30_06_2022(/)",
 			"destination": "/page59094955.html"
 		},
 		{
-			"source": "^/news_14_06_2022/?$",
+			"source": "/news_14_06_2022(/)",
 			"destination": "/page59094959.html"
 		},
 		{
-			"source": "^/news_26_05_2022/?$",
+			"source": "/news_26_05_2022(/)",
 			"destination": "/page59094961.html"
 		},
 		{
-			"source": "^/news_14_04_2022/?$",
+			"source": "/news_14_04_2022(/)",
 			"destination": "/page59094963.html"
 		},
 		{
-			"source": "^/news_10_03_2022/?$",
+			"source": "/news_10_03_2022(/)",
 			"destination": "/page59094965.html"
 		},
 		{
-			"source": "^/news_18_02_2022/?$",
+			"source": "/news_18_02_2022(/)",
 			"destination": "/page59094969.html"
 		},
 		{
-			"source": "^/news_23_12_2021/?$",
+			"source": "/news_23_12_2021(/)",
 			"destination": "/page59094971.html"
 		},
 		{
-			"source": "^/news_22_11_2021/?$",
+			"source": "/news_22_11_2021(/)",
 			"destination": "/page59094975.html"
 		},
 		{
-			"source": "^/news_29_10_2021/?$",
+			"source": "/news_29_10_2021(/)",
 			"destination": "/page59094977.html"
 		},
 		{
-			"source": "^/news_31_03_2021/?$",
+			"source": "/news_31_03_2021(/)",
 			"destination": "/page59094979.html"
 		},
 		{
-			"source": "^/news_07_09_2020/?$",
+			"source": "/news_07_09_2020(/)",
 			"destination": "/page59094983.html"
 		},
 		{
-			"source": "^/news_03_07_2020/?$",
+			"source": "/news_03_07_2020(/)",
 			"destination": "/page59094985.html"
 		},
 		{
-			"source": "^/news_28_05_2020/?$",
+			"source": "/news_28_05_2020(/)",
 			"destination": "/page59094989.html"
 		},
 		{
-			"source": "^/news_21_05_2020/?$",
+			"source": "/news_21_05_2020(/)",
 			"destination": "/page59095009.html"
 		},
 		{
-			"source": "^/news_30_04_2020/?$",
+			"source": "/news_30_04_2020(/)",
 			"destination": "/page59094991.html"
 		},
 		{
-			"source": "^/news_16_04_2020/?$",
+			"source": "/news_16_04_2020(/)",
 			"destination": "/page59094993.html"
 		},
 		{
-			"source": "^/news_08_04_2020/?$",
+			"source": "/news_08_04_2020(/)",
 			"destination": "/page59094995.html"
 		},
 		{
-			"source": "^/news_30_03_2020/?$",
+			"source": "/news_30_03_2020(/)",
 			"destination": "/page59094997.html"
 		},
 		{
-			"source": "^/news_05_03_2020/?$",
+			"source": "/news_05_03_2020(/)",
 			"destination": "/page59095005.html"
 		},
 		{
-			"source": "^/news_25_02_2020/?$",
+			"source": "/news_25_02_2020(/)",
 			"destination": "/page59095007.html"
 		},
 		{
-			"source": "^/clientagreement/?$",
+			"source": "/clientagreement(/)",
 			"destination": "/page59108855.html"
 		},
 		{
-			"source": "^/partneragreement/?$",
+			"source": "/partneragreement(/)",
 			"destination": "/page59108859.html"
 		},
 		{
-			"source": "^/brokerlicence/?$",
+			"source": "/brokerlicence(/)",
 			"destination": "/page59108861.html"
 		},
 		{
-			"source": "^/terms_of_use/?$",
+			"source": "/terms_of_use(/)",
 			"destination": "/page59108863.html"
 		},
 		{
-			"source": "^/antimoneylaunderingpolicy/?$",
+			"source": "/antimoneylaunderingpolicy(/)",
 			"destination": "/page59108867.html"
 		},
 		{
-			"source": "^/kycpolicy/?$",
+			"source": "/kycpolicy(/)",
 			"destination": "/page59108871.html"
 		},
 		{
-			"source": "^/riskdisclosure/?$",
+			"source": "/riskdisclosure(/)",
 			"destination": "/page59108873.html"
 		},
 		{
-			"source": "^/gdprpolicy/?$",
+			"source": "/gdprpolicy(/)",
 			"destination": "/page59108875.html"
 		},
 		{
-			"source": "^/bonusf/?$",
+			"source": "/bonusf(/)",
 			"destination": "/page59108881.html"
 		},
 		{
-			"source": "^/complaints-policy/?$",
+			"source": "/complaints-policy(/)",
 			"destination": "/page125243616.html"
 		},
 		{
-			"source": "^/prop-challenge/?$",
+			"source": "/prop-challenge(/)",
 			"destination": "/page102851196.html"
 		},
 		{
-			"source": "^/prop-challenge-policy/?$",
+			"source": "/prop-challenge-policy(/)",
 			"destination": "/page103506186.html"
 		},
 		{
-			"source": "^/prop-challenge-terms/?$",
+			"source": "/prop-challenge-terms(/)",
 			"destination": "/page103474226.html"
 		},
 		{
-			"source": "^/newyear111/?$",
+			"source": "/newyear111(/)",
 			"destination": "/page104943016.html"
 		},
 		{
-			"source": "^/newyear111-thanks/?$",
+			"source": "/newyear111-thanks(/)",
 			"destination": "/page104943036.html"
 		},
 		{
-			"source": "^/newyear111-policy/?$",
+			"source": "/newyear111-policy(/)",
 			"destination": "/page104943056.html"
 		},
 		{
-			"source": "^/welcome-bonus/?$",
+			"source": "/welcome-bonus(/)",
 			"destination": "/page110800336.html"
 		},
 		{
-			"source": "^/welcome-bonus-privacy-policy/?$",
+			"source": "/welcome-bonus-privacy-policy(/)",
 			"destination": "/page110800346.html"
 		},
 		{
-			"source": "^/welcome-bonus-thank-you/?$",
+			"source": "/welcome-bonus-thank-you(/)",
 			"destination": "/page110800376.html"
 		},
 		{
-			"source": "^/prop-trading/?$",
+			"source": "/prop-trading(/)",
 			"destination": "/page113930696.html"
 		},
 		{
-			"source": "^/spring128/?$",
+			"source": "/spring128(/)",
 			"destination": "/page119294946.html"
 		},
 		{
-			"source": "^/spring128-thanks/?$",
+			"source": "/spring128-thanks(/)",
 			"destination": "/page119294976.html"
 		},
 		{
-			"source": "^/spring128-policy/?$",
+			"source": "/spring128-policy(/)",
 			"destination": "/page119295026.html"
 		},
 		{
-			"source": "^/bonus150/?$",
+			"source": "/bonus150(/)",
 			"destination": "/page123148696.html"
 		},
 		{
-			"source": "^/bonus150-thanks/?$",
+			"source": "/bonus150-thanks(/)",
 			"destination": "/page123148716.html"
 		},
 		{
-			"source": "^/bonus150-politika/?$",
+			"source": "/bonus150-politika(/)",
 			"destination": "/page123148726.html"
 		},
 		{
