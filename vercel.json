@@ -1,621 +1,621 @@
 {
-	"routes": [
+	"cleanUrls": false,
+	"rewrites": [
 		{
-			"src": "^/$",
-			"dest": "/page59010137.html"
+			"source": "/",
+			"destination": "/page59010137.html"
 		},
 		{
-			"src": "^/genesis-ru/?$",
-			"dest": "/page131798076.html"
+			"source": "^/genesis-ru/?$",
+			"destination": "/page131798076.html"
 		},
 		{
-			"src": "^/genesis-tay/?$",
-			"dest": "/page127518376.html"
+			"source": "^/genesis-tay/?$",
+			"destination": "/page127518376.html"
 		},
 		{
-			"src": "^/genesis/?$",
-			"dest": "/page127539636.html"
+			"source": "^/genesis/?$",
+			"destination": "/page127539636.html"
 		},
 		{
-			"src": "^/account_types/?$",
-			"dest": "/page64908577.html"
+			"source": "^/account_types/?$",
+			"destination": "/page64908577.html"
 		},
 		{
-			"src": "^/genesis-ru-policy/?$",
-			"dest": "/page131798106.html"
+			"source": "^/genesis-ru-policy/?$",
+			"destination": "/page131798106.html"
 		},
 		{
-			"src": "^/genesis-tay-policy/?$",
-			"dest": "/page127518406.html"
+			"source": "^/genesis-tay-policy/?$",
+			"destination": "/page127518406.html"
 		},
 		{
-			"src": "^/genesis-policy/?$",
-			"dest": "/page127539676.html"
+			"source": "^/genesis-policy/?$",
+			"destination": "/page127539676.html"
 		},
 		{
-			"src": "^/deposit/?$",
-			"dest": "/page58737235.html"
+			"source": "^/deposit/?$",
+			"destination": "/page58737235.html"
 		},
 		{
-			"src": "^/withdraw/?$",
-			"dest": "/page58737239.html"
+			"source": "^/withdraw/?$",
+			"destination": "/page58737239.html"
 		},
 		{
-			"src": "^/leverage/?$",
-			"dest": "/page64836693.html"
+			"source": "^/leverage/?$",
+			"destination": "/page64836693.html"
 		},
 		{
-			"src": "^/trading_tools/?$",
-			"dest": "/page58737241.html"
+			"source": "^/trading_tools/?$",
+			"destination": "/page58737241.html"
 		},
 		{
-			"src": "^/how/?$",
-			"dest": "/page59032255.html"
+			"source": "^/how/?$",
+			"destination": "/page59032255.html"
 		},
 		{
-			"src": "^/market_review/?$",
-			"dest": "/page58828031.html"
+			"source": "^/market_review/?$",
+			"destination": "/page58828031.html"
 		},
 		{
-			"src": "^/mt4/?$",
-			"dest": "/page59081947.html"
+			"source": "^/mt4/?$",
+			"destination": "/page59081947.html"
 		},
 		{
-			"src": "^/mt5/?$",
-			"dest": "/page60581169.html"
+			"source": "^/mt5/?$",
+			"destination": "/page60581169.html"
 		},
 		{
-			"src": "^/economic_calendar/?$",
-			"dest": "/page63905873.html"
+			"source": "^/economic_calendar/?$",
+			"destination": "/page63905873.html"
 		},
 		{
-			"src": "^/copytrading/?$",
-			"dest": "/page58834809.html"
+			"source": "^/copytrading/?$",
+			"destination": "/page58834809.html"
 		},
 		{
-			"src": "^/ib/?$",
-			"dest": "/page58884423.html"
+			"source": "^/ib/?$",
+			"destination": "/page58884423.html"
 		},
 		{
-			"src": "^/multilevel/?$",
-			"dest": "/page59033353.html"
+			"source": "^/multilevel/?$",
+			"destination": "/page59033353.html"
 		},
 		{
-			"src": "^/news/?$",
-			"dest": "/page58737243.html"
+			"source": "^/news/?$",
+			"destination": "/page58737243.html"
 		},
 		{
-			"src": "^/faq/?$",
-			"dest": "/page58737245.html"
+			"source": "^/faq/?$",
+			"destination": "/page58737245.html"
 		},
 		{
-			"src": "^/about/?$",
-			"dest": "/page58737251.html"
+			"source": "^/about/?$",
+			"destination": "/page58737251.html"
 		},
 		{
-			"src": "^/liquidity/?$",
-			"dest": "/page58737249.html"
+			"source": "^/liquidity/?$",
+			"destination": "/page58737249.html"
 		},
 		{
-			"src": "^/contacts/?$",
-			"dest": "/page58737253.html"
+			"source": "^/contacts/?$",
+			"destination": "/page58737253.html"
 		},
 		{
-			"src": "^/documents/?$",
-			"dest": "/page58737255.html"
+			"source": "^/documents/?$",
+			"destination": "/page58737255.html"
 		},
 		{
-			"src": "^/account_types_old/?$",
-			"dest": "/page59024063.html"
+			"source": "^/account_types_old/?$",
+			"destination": "/page59024063.html"
 		},
 		{
-			"src": "^/some-reviews/?$",
-			"dest": "/page104945596.html"
+			"source": "^/some-reviews/?$",
+			"destination": "/page104945596.html"
 		},
 		{
-			"src": "^/news_10_03_2026/?$",
-			"dest": "/page125421946.html"
+			"source": "^/news_10_03_2026/?$",
+			"destination": "/page125421946.html"
 		},
 		{
-			"src": "^/news_05_03_2026/?$",
-			"dest": "/page124274356.html"
+			"source": "^/news_05_03_2026/?$",
+			"destination": "/page124274356.html"
 		},
 		{
-			"src": "^/news_24_02_2026/?$",
-			"dest": "/page121475476.html"
+			"source": "^/news_24_02_2026/?$",
+			"destination": "/page121475476.html"
 		},
 		{
-			"src": "^/news_17_02_2026/?$",
-			"dest": "/page119431456.html"
+			"source": "^/news_17_02_2026/?$",
+			"destination": "/page119431456.html"
 		},
 		{
-			"src": "^/news_12_02_2026/?$",
-			"dest": "/page118404346.html"
+			"source": "^/news_12_02_2026/?$",
+			"destination": "/page118404346.html"
 		},
 		{
-			"src": "^/news_30_01_2026/?$",
-			"dest": "/page114661766.html"
+			"source": "^/news_30_01_2026/?$",
+			"destination": "/page114661766.html"
 		},
 		{
-			"src": "^/news_15_01_2026/?$",
-			"dest": "/page110527266.html"
+			"source": "^/news_15_01_2026/?$",
+			"destination": "/page110527266.html"
 		},
 		{
-			"src": "^/news_18_12_2025_1/?$",
-			"dest": "/page105027706.html"
+			"source": "^/news_18_12_2025_1/?$",
+			"destination": "/page105027706.html"
 		},
 		{
-			"src": "^/news_18_12_2025/?$",
-			"dest": "/page103405656.html"
+			"source": "^/news_18_12_2025/?$",
+			"destination": "/page103405656.html"
 		},
 		{
-			"src": "^/news_12_12_2025/?$",
-			"dest": "/page103323046.html"
+			"source": "^/news_12_12_2025/?$",
+			"destination": "/page103323046.html"
 		},
 		{
-			"src": "^/news_01_12_2025/?$",
-			"dest": "/page99911836.html"
+			"source": "^/news_01_12_2025/?$",
+			"destination": "/page99911836.html"
 		},
 		{
-			"src": "^/news_24_11_2025/?$",
-			"dest": "/page97845386.html"
+			"source": "^/news_24_11_2025/?$",
+			"destination": "/page97845386.html"
 		},
 		{
-			"src": "^/news_14_11_2025/?$",
-			"dest": "/page95115816.html"
+			"source": "^/news_14_11_2025/?$",
+			"destination": "/page95115816.html"
 		},
 		{
-			"src": "^/news_22_10_2025_1/?$",
-			"dest": "/page88573536.html"
+			"source": "^/news_22_10_2025_1/?$",
+			"destination": "/page88573536.html"
 		},
 		{
-			"src": "^/news_22_10_2025/?$",
-			"dest": "/page88490476.html"
+			"source": "^/news_22_10_2025/?$",
+			"destination": "/page88490476.html"
 		},
 		{
-			"src": "^/news_08_10_2025/?$",
-			"dest": "/page84263186.html"
+			"source": "^/news_08_10_2025/?$",
+			"destination": "/page84263186.html"
 		},
 		{
-			"src": "^/news_30_09_2025/?$",
-			"dest": "/page82254826.html"
+			"source": "^/news_30_09_2025/?$",
+			"destination": "/page82254826.html"
 		},
 		{
-			"src": "^/news_28_08_2025/?$",
-			"dest": "/page74513177.html"
+			"source": "^/news_28_08_2025/?$",
+			"destination": "/page74513177.html"
 		},
 		{
-			"src": "^/news_21_08_2025/?$",
-			"dest": "/page74199901.html"
+			"source": "^/news_21_08_2025/?$",
+			"destination": "/page74199901.html"
 		},
 		{
-			"src": "^/news_25_07_2025/?$",
-			"dest": "/page72898423.html"
+			"source": "^/news_25_07_2025/?$",
+			"destination": "/page72898423.html"
 		},
 		{
-			"src": "^/news_01_07_2025/?$",
-			"dest": "/page71702535.html"
+			"source": "^/news_01_07_2025/?$",
+			"destination": "/page71702535.html"
 		},
 		{
-			"src": "^/news_13_06_2025/?$",
-			"dest": "/page70746613.html"
+			"source": "^/news_13_06_2025/?$",
+			"destination": "/page70746613.html"
 		},
 		{
-			"src": "^/news_22_05_2025/?$",
-			"dest": "/page69420013.html"
+			"source": "^/news_22_05_2025/?$",
+			"destination": "/page69420013.html"
 		},
 		{
-			"src": "^/news_21_05_2025/?$",
-			"dest": "/page69354665.html"
+			"source": "^/news_21_05_2025/?$",
+			"destination": "/page69354665.html"
 		},
 		{
-			"src": "^/news_13_05_2025/?$",
-			"dest": "/page68808655.html"
+			"source": "^/news_13_05_2025/?$",
+			"destination": "/page68808655.html"
 		},
 		{
-			"src": "^/news_30_04_2025/?$",
-			"dest": "/page68021697.html"
+			"source": "^/news_30_04_2025/?$",
+			"destination": "/page68021697.html"
 		},
 		{
-			"src": "^/news_10_04_2025/?$",
-			"dest": "/page66747211.html"
+			"source": "^/news_10_04_2025/?$",
+			"destination": "/page66747211.html"
 		},
 		{
-			"src": "^/news_03_04_2025/?$",
-			"dest": "/page66243875.html"
+			"source": "^/news_03_04_2025/?$",
+			"destination": "/page66243875.html"
 		},
 		{
-			"src": "^/news_05_03_2025/?$",
-			"dest": "/page64417959.html"
+			"source": "^/news_05_03_2025/?$",
+			"destination": "/page64417959.html"
 		},
 		{
-			"src": "^/news_12_02_2025/?$",
-			"dest": "/page63087055.html"
+			"source": "^/news_12_02_2025/?$",
+			"destination": "/page63087055.html"
 		},
 		{
-			"src": "^/news_11_02_2025/?$",
-			"dest": "/page62641021.html"
+			"source": "^/news_11_02_2025/?$",
+			"destination": "/page62641021.html"
 		},
 		{
-			"src": "^/news_10_02_2025/?$",
-			"dest": "/page62947653.html"
+			"source": "^/news_10_02_2025/?$",
+			"destination": "/page62947653.html"
 		},
 		{
-			"src": "^/news_08_01_2025/?$",
-			"dest": "/page61039621.html"
+			"source": "^/news_08_01_2025/?$",
+			"destination": "/page61039621.html"
 		},
 		{
-			"src": "^/news_25_12_2024/?$",
-			"dest": "/page60618467.html"
+			"source": "^/news_25_12_2024/?$",
+			"destination": "/page60618467.html"
 		},
 		{
-			"src": "^/news_18_12_2024/?$",
-			"dest": "/page60253399.html"
+			"source": "^/news_18_12_2024/?$",
+			"destination": "/page60253399.html"
 		},
 		{
-			"src": "^/news_16_12_2024/?$",
-			"dest": "/page60115743.html"
+			"source": "^/news_16_12_2024/?$",
+			"destination": "/page60115743.html"
 		},
 		{
-			"src": "^/news_02_12_2024/?$",
-			"dest": "/page59277609.html"
+			"source": "^/news_02_12_2024/?$",
+			"destination": "/page59277609.html"
 		},
 		{
-			"src": "^/news_20_11_2024/?$",
-			"dest": "/page59087719.html"
+			"source": "^/news_20_11_2024/?$",
+			"destination": "/page59087719.html"
 		},
 		{
-			"src": "^/news_11_11_2024/?$",
-			"dest": "/page59087721.html"
+			"source": "^/news_11_11_2024/?$",
+			"destination": "/page59087721.html"
 		},
 		{
-			"src": "^/news_25_10_2024/?$",
-			"dest": "/page59087723.html"
+			"source": "^/news_25_10_2024/?$",
+			"destination": "/page59087723.html"
 		},
 		{
-			"src": "^/news_24_10_2024/?$",
-			"dest": "/page59087725.html"
+			"source": "^/news_24_10_2024/?$",
+			"destination": "/page59087725.html"
 		},
 		{
-			"src": "^/news_29_08_2024/?$",
-			"dest": "/page59087727.html"
+			"source": "^/news_29_08_2024/?$",
+			"destination": "/page59087727.html"
 		},
 		{
-			"src": "^/news_01_07_2024/?$",
-			"dest": "/page59087731.html"
+			"source": "^/news_01_07_2024/?$",
+			"destination": "/page59087731.html"
 		},
 		{
-			"src": "^/news_07_06_2024/?$",
-			"dest": "/page59087735.html"
+			"source": "^/news_07_06_2024/?$",
+			"destination": "/page59087735.html"
 		},
 		{
-			"src": "^/news_29_05_2024/?$",
-			"dest": "/page59087739.html"
+			"source": "^/news_29_05_2024/?$",
+			"destination": "/page59087739.html"
 		},
 		{
-			"src": "^/news_26_04_2024/?$",
-			"dest": "/page59087749.html"
+			"source": "^/news_26_04_2024/?$",
+			"destination": "/page59087749.html"
 		},
 		{
-			"src": "^/news_27_03_2024/?$",
-			"dest": "/page59087753.html"
+			"source": "^/news_27_03_2024/?$",
+			"destination": "/page59087753.html"
 		},
 		{
-			"src": "^/news_26_03_2024/?$",
-			"dest": "/page59094837.html"
+			"source": "^/news_26_03_2024/?$",
+			"destination": "/page59094837.html"
 		},
 		{
-			"src": "^/news_15_03_2024/?$",
-			"dest": "/page59094839.html"
+			"source": "^/news_15_03_2024/?$",
+			"destination": "/page59094839.html"
 		},
 		{
-			"src": "^/news_08_03_2024/?$",
-			"dest": "/page59094841.html"
+			"source": "^/news_08_03_2024/?$",
+			"destination": "/page59094841.html"
 		},
 		{
-			"src": "^/news_16_02_2024/?$",
-			"dest": "/page59094849.html"
+			"source": "^/news_16_02_2024/?$",
+			"destination": "/page59094849.html"
 		},
 		{
-			"src": "^/news_29_12_2023/?$",
-			"dest": "/page59094851.html"
+			"source": "^/news_29_12_2023/?$",
+			"destination": "/page59094851.html"
 		},
 		{
-			"src": "^/news_26_12_2023/?$",
-			"dest": "/page59094855.html"
+			"source": "^/news_26_12_2023/?$",
+			"destination": "/page59094855.html"
 		},
 		{
-			"src": "^/news_21_12_2023/?$",
-			"dest": "/page59094859.html"
+			"source": "^/news_21_12_2023/?$",
+			"destination": "/page59094859.html"
 		},
 		{
-			"src": "^/news_19_12_2023/?$",
-			"dest": "/page59094863.html"
+			"source": "^/news_19_12_2023/?$",
+			"destination": "/page59094863.html"
 		},
 		{
-			"src": "^/news_12_12_2023/?$",
-			"dest": "/page59094865.html"
+			"source": "^/news_12_12_2023/?$",
+			"destination": "/page59094865.html"
 		},
 		{
-			"src": "^/news_11_12_2023/?$",
-			"dest": "/page59094869.html"
+			"source": "^/news_11_12_2023/?$",
+			"destination": "/page59094869.html"
 		},
 		{
-			"src": "^/news_04_12_2023/?$",
-			"dest": "/page59094871.html"
+			"source": "^/news_04_12_2023/?$",
+			"destination": "/page59094871.html"
 		},
 		{
-			"src": "^/news_24_11_2023/?$",
-			"dest": "/page59094877.html"
+			"source": "^/news_24_11_2023/?$",
+			"destination": "/page59094877.html"
 		},
 		{
-			"src": "^/news_21_11_2023/?$",
-			"dest": "/page59094883.html"
+			"source": "^/news_21_11_2023/?$",
+			"destination": "/page59094883.html"
 		},
 		{
-			"src": "^/news_14_11_2023/?$",
-			"dest": "/page59094885.html"
+			"source": "^/news_14_11_2023/?$",
+			"destination": "/page59094885.html"
 		},
 		{
-			"src": "^/news_25_10_2023/?$",
-			"dest": "/page59094889.html"
+			"source": "^/news_25_10_2023/?$",
+			"destination": "/page59094889.html"
 		},
 		{
-			"src": "^/news_06_09_2023/?$",
-			"dest": "/page59094891.html"
+			"source": "^/news_06_09_2023/?$",
+			"destination": "/page59094891.html"
 		},
 		{
-			"src": "^/news_29_08_2023/?$",
-			"dest": "/page59094897.html"
+			"source": "^/news_29_08_2023/?$",
+			"destination": "/page59094897.html"
 		},
 		{
-			"src": "^/news_15_08_2023/?$",
-			"dest": "/page59094901.html"
+			"source": "^/news_15_08_2023/?$",
+			"destination": "/page59094901.html"
 		},
 		{
-			"src": "^/news_30_06_2023/?$",
-			"dest": "/page59094903.html"
+			"source": "^/news_30_06_2023/?$",
+			"destination": "/page59094903.html"
 		},
 		{
-			"src": "^/news_25_05_2023_2/?$",
-			"dest": "/page59094913.html"
+			"source": "^/news_25_05_2023_2/?$",
+			"destination": "/page59094913.html"
 		},
 		{
-			"src": "^/news_25_05_2023/?$",
-			"dest": "/page59094917.html"
+			"source": "^/news_25_05_2023/?$",
+			"destination": "/page59094917.html"
 		},
 		{
-			"src": "^/news_10_05_2023/?$",
-			"dest": "/page59094921.html"
+			"source": "^/news_10_05_2023/?$",
+			"destination": "/page59094921.html"
 		},
 		{
-			"src": "^/news_13_04_2023/?$",
-			"dest": "/page59094927.html"
+			"source": "^/news_13_04_2023/?$",
+			"destination": "/page59094927.html"
 		},
 		{
-			"src": "^/news_04_04_2023/?$",
-			"dest": "/page59094931.html"
+			"source": "^/news_04_04_2023/?$",
+			"destination": "/page59094931.html"
 		},
 		{
-			"src": "^/news_08_03_2023/?$",
-			"dest": "/page59094933.html"
+			"source": "^/news_08_03_2023/?$",
+			"destination": "/page59094933.html"
 		},
 		{
-			"src": "^/news_16_02_2023/?$",
-			"dest": "/page59094935.html"
+			"source": "^/news_16_02_2023/?$",
+			"destination": "/page59094935.html"
 		},
 		{
-			"src": "^/news_14_02_2023/?$",
-			"dest": "/page59094939.html"
+			"source": "^/news_14_02_2023/?$",
+			"destination": "/page59094939.html"
 		},
 		{
-			"src": "^/news_10_01_2023/?$",
-			"dest": "/page59094941.html"
+			"source": "^/news_10_01_2023/?$",
+			"destination": "/page59094941.html"
 		},
 		{
-			"src": "^/news_20_12_2022/?$",
-			"dest": "/page59094943.html"
+			"source": "^/news_20_12_2022/?$",
+			"destination": "/page59094943.html"
 		},
 		{
-			"src": "^/news_23_11_2022/?$",
-			"dest": "/page59094945.html"
+			"source": "^/news_23_11_2022/?$",
+			"destination": "/page59094945.html"
 		},
 		{
-			"src": "^/news_27_10_2022/?$",
-			"dest": "/page59094949.html"
+			"source": "^/news_27_10_2022/?$",
+			"destination": "/page59094949.html"
 		},
 		{
-			"src": "^/news_31_08_2022/?$",
-			"dest": "/page59094953.html"
+			"source": "^/news_31_08_2022/?$",
+			"destination": "/page59094953.html"
 		},
 		{
-			"src": "^/news_30_06_2022/?$",
-			"dest": "/page59094955.html"
+			"source": "^/news_30_06_2022/?$",
+			"destination": "/page59094955.html"
 		},
 		{
-			"src": "^/news_14_06_2022/?$",
-			"dest": "/page59094959.html"
+			"source": "^/news_14_06_2022/?$",
+			"destination": "/page59094959.html"
 		},
 		{
-			"src": "^/news_26_05_2022/?$",
-			"dest": "/page59094961.html"
+			"source": "^/news_26_05_2022/?$",
+			"destination": "/page59094961.html"
 		},
 		{
-			"src": "^/news_14_04_2022/?$",
-			"dest": "/page59094963.html"
+			"source": "^/news_14_04_2022/?$",
+			"destination": "/page59094963.html"
 		},
 		{
-			"src": "^/news_10_03_2022/?$",
-			"dest": "/page59094965.html"
+			"source": "^/news_10_03_2022/?$",
+			"destination": "/page59094965.html"
 		},
 		{
-			"src": "^/news_18_02_2022/?$",
-			"dest": "/page59094969.html"
+			"source": "^/news_18_02_2022/?$",
+			"destination": "/page59094969.html"
 		},
 		{
-			"src": "^/news_23_12_2021/?$",
-			"dest": "/page59094971.html"
+			"source": "^/news_23_12_2021/?$",
+			"destination": "/page59094971.html"
 		},
 		{
-			"src": "^/news_22_11_2021/?$",
-			"dest": "/page59094975.html"
+			"source": "^/news_22_11_2021/?$",
+			"destination": "/page59094975.html"
 		},
 		{
-			"src": "^/news_29_10_2021/?$",
-			"dest": "/page59094977.html"
+			"source": "^/news_29_10_2021/?$",
+			"destination": "/page59094977.html"
 		},
 		{
-			"src": "^/news_31_03_2021/?$",
-			"dest": "/page59094979.html"
+			"source": "^/news_31_03_2021/?$",
+			"destination": "/page59094979.html"
 		},
 		{
-			"src": "^/news_07_09_2020/?$",
-			"dest": "/page59094983.html"
+			"source": "^/news_07_09_2020/?$",
+			"destination": "/page59094983.html"
 		},
 		{
-			"src": "^/news_03_07_2020/?$",
-			"dest": "/page59094985.html"
+			"source": "^/news_03_07_2020/?$",
+			"destination": "/page59094985.html"
 		},
 		{
-			"src": "^/news_28_05_2020/?$",
-			"dest": "/page59094989.html"
+			"source": "^/news_28_05_2020/?$",
+			"destination": "/page59094989.html"
 		},
 		{
-			"src": "^/news_21_05_2020/?$",
-			"dest": "/page59095009.html"
+			"source": "^/news_21_05_2020/?$",
+			"destination": "/page59095009.html"
 		},
 		{
-			"src": "^/news_30_04_2020/?$",
-			"dest": "/page59094991.html"
+			"source": "^/news_30_04_2020/?$",
+			"destination": "/page59094991.html"
 		},
 		{
-			"src": "^/news_16_04_2020/?$",
-			"dest": "/page59094993.html"
+			"source": "^/news_16_04_2020/?$",
+			"destination": "/page59094993.html"
 		},
 		{
-			"src": "^/news_08_04_2020/?$",
-			"dest": "/page59094995.html"
+			"source": "^/news_08_04_2020/?$",
+			"destination": "/page59094995.html"
 		},
 		{
-			"src": "^/news_30_03_2020/?$",
-			"dest": "/page59094997.html"
+			"source": "^/news_30_03_2020/?$",
+			"destination": "/page59094997.html"
 		},
 		{
-			"src": "^/news_05_03_2020/?$",
-			"dest": "/page59095005.html"
+			"source": "^/news_05_03_2020/?$",
+			"destination": "/page59095005.html"
 		},
 		{
-			"src": "^/news_25_02_2020/?$",
-			"dest": "/page59095007.html"
+			"source": "^/news_25_02_2020/?$",
+			"destination": "/page59095007.html"
 		},
 		{
-			"src": "^/clientagreement/?$",
-			"dest": "/page59108855.html"
+			"source": "^/clientagreement/?$",
+			"destination": "/page59108855.html"
 		},
 		{
-			"src": "^/partneragreement/?$",
-			"dest": "/page59108859.html"
+			"source": "^/partneragreement/?$",
+			"destination": "/page59108859.html"
 		},
 		{
-			"src": "^/brokerlicence/?$",
-			"dest": "/page59108861.html"
+			"source": "^/brokerlicence/?$",
+			"destination": "/page59108861.html"
 		},
 		{
-			"src": "^/terms_of_use/?$",
-			"dest": "/page59108863.html"
+			"source": "^/terms_of_use/?$",
+			"destination": "/page59108863.html"
 		},
 		{
-			"src": "^/antimoneylaunderingpolicy/?$",
-			"dest": "/page59108867.html"
+			"source": "^/antimoneylaunderingpolicy/?$",
+			"destination": "/page59108867.html"
 		},
 		{
-			"src": "^/kycpolicy/?$",
-			"dest": "/page59108871.html"
+			"source": "^/kycpolicy/?$",
+			"destination": "/page59108871.html"
 		},
 		{
-			"src": "^/riskdisclosure/?$",
-			"dest": "/page59108873.html"
+			"source": "^/riskdisclosure/?$",
+			"destination": "/page59108873.html"
 		},
 		{
-			"src": "^/gdprpolicy/?$",
-			"dest": "/page59108875.html"
+			"source": "^/gdprpolicy/?$",
+			"destination": "/page59108875.html"
 		},
 		{
-			"src": "^/bonusf/?$",
-			"dest": "/page59108881.html"
+			"source": "^/bonusf/?$",
+			"destination": "/page59108881.html"
 		},
 		{
-			"src": "^/complaints-policy/?$",
-			"dest": "/page125243616.html"
+			"source": "^/complaints-policy/?$",
+			"destination": "/page125243616.html"
 		},
 		{
-			"src": "^/prop-challenge/?$",
-			"dest": "/page102851196.html"
+			"source": "^/prop-challenge/?$",
+			"destination": "/page102851196.html"
 		},
 		{
-			"src": "^/prop-challenge-policy/?$",
-			"dest": "/page103506186.html"
+			"source": "^/prop-challenge-policy/?$",
+			"destination": "/page103506186.html"
 		},
 		{
-			"src": "^/prop-challenge-terms/?$",
-			"dest": "/page103474226.html"
+			"source": "^/prop-challenge-terms/?$",
+			"destination": "/page103474226.html"
 		},
 		{
-			"src": "^/newyear111/?$",
-			"dest": "/page104943016.html"
+			"source": "^/newyear111/?$",
+			"destination": "/page104943016.html"
 		},
 		{
-			"src": "^/newyear111-thanks/?$",
-			"dest": "/page104943036.html"
+			"source": "^/newyear111-thanks/?$",
+			"destination": "/page104943036.html"
 		},
 		{
-			"src": "^/newyear111-policy/?$",
-			"dest": "/page104943056.html"
+			"source": "^/newyear111-policy/?$",
+			"destination": "/page104943056.html"
 		},
 		{
-			"src": "^/welcome-bonus/?$",
-			"dest": "/page110800336.html"
+			"source": "^/welcome-bonus/?$",
+			"destination": "/page110800336.html"
 		},
 		{
-			"src": "^/welcome-bonus-privacy-policy/?$",
-			"dest": "/page110800346.html"
+			"source": "^/welcome-bonus-privacy-policy/?$",
+			"destination": "/page110800346.html"
 		},
 		{
-			"src": "^/welcome-bonus-thank-you/?$",
-			"dest": "/page110800376.html"
+			"source": "^/welcome-bonus-thank-you/?$",
+			"destination": "/page110800376.html"
 		},
 		{
-			"src": "^/prop-trading/?$",
-			"dest": "/page113930696.html"
+			"source": "^/prop-trading/?$",
+			"destination": "/page113930696.html"
 		},
 		{
-			"src": "^/spring128/?$",
-			"dest": "/page119294946.html"
+			"source": "^/spring128/?$",
+			"destination": "/page119294946.html"
 		},
 		{
-			"src": "^/spring128-thanks/?$",
-			"dest": "/page119294976.html"
+			"source": "^/spring128-thanks/?$",
+			"destination": "/page119294976.html"
 		},
 		{
-			"src": "^/spring128-policy/?$",
-			"dest": "/page119295026.html"
+			"source": "^/spring128-policy/?$",
+			"destination": "/page119295026.html"
 		},
 		{
-			"src": "^/bonus150/?$",
-			"dest": "/page123148696.html"
+			"source": "^/bonus150/?$",
+			"destination": "/page123148696.html"
 		},
 		{
-			"src": "^/bonus150-thanks/?$",
-			"dest": "/page123148716.html"
+			"source": "^/bonus150-thanks/?$",
+			"destination": "/page123148716.html"
 		},
 		{
-			"src": "^/bonus150-politika/?$",
-			"dest": "/page123148726.html"
+			"source": "^/bonus150-politika/?$",
+			"destination": "/page123148726.html"
 		},
 		{
-			"src": "/.*",
-			"status": 404,
-			"dest": "/404.html"
+			"source": "/(.*)",
+			"destination": "/404.html"
 		}
 	]
 }
