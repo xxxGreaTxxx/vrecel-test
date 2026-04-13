@@ -1,0 +1,467 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page59010137.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^genesis-ru$ page131798076.html [NC]
+RewriteRule ^genesis-ru/$ page131798076.html [NC]
+
+RewriteRule ^genesis-tay$ page127518376.html [NC]
+RewriteRule ^genesis-tay/$ page127518376.html [NC]
+
+RewriteRule ^genesis$ page127539636.html [NC]
+RewriteRule ^genesis/$ page127539636.html [NC]
+
+RewriteRule ^account_types$ page64908577.html [NC]
+RewriteRule ^account_types/$ page64908577.html [NC]
+
+RewriteRule ^genesis-ru-policy$ page131798106.html [NC]
+RewriteRule ^genesis-ru-policy/$ page131798106.html [NC]
+
+RewriteRule ^genesis-tay-policy$ page127518406.html [NC]
+RewriteRule ^genesis-tay-policy/$ page127518406.html [NC]
+
+RewriteRule ^genesis-policy$ page127539676.html [NC]
+RewriteRule ^genesis-policy/$ page127539676.html [NC]
+
+RewriteRule ^deposit$ page58737235.html [NC]
+RewriteRule ^deposit/$ page58737235.html [NC]
+
+RewriteRule ^withdraw$ page58737239.html [NC]
+RewriteRule ^withdraw/$ page58737239.html [NC]
+
+RewriteRule ^leverage$ page64836693.html [NC]
+RewriteRule ^leverage/$ page64836693.html [NC]
+
+RewriteRule ^trading_tools$ page58737241.html [NC]
+RewriteRule ^trading_tools/$ page58737241.html [NC]
+
+RewriteRule ^how$ page59032255.html [NC]
+RewriteRule ^how/$ page59032255.html [NC]
+
+RewriteRule ^market_review$ page58828031.html [NC]
+RewriteRule ^market_review/$ page58828031.html [NC]
+
+RewriteRule ^mt4$ page59081947.html [NC]
+RewriteRule ^mt4/$ page59081947.html [NC]
+
+RewriteRule ^mt5$ page60581169.html [NC]
+RewriteRule ^mt5/$ page60581169.html [NC]
+
+RewriteRule ^economic_calendar$ page63905873.html [NC]
+RewriteRule ^economic_calendar/$ page63905873.html [NC]
+
+RewriteRule ^copytrading$ page58834809.html [NC]
+RewriteRule ^copytrading/$ page58834809.html [NC]
+
+RewriteRule ^ib$ page58884423.html [NC]
+RewriteRule ^ib/$ page58884423.html [NC]
+
+RewriteRule ^multilevel$ page59033353.html [NC]
+RewriteRule ^multilevel/$ page59033353.html [NC]
+
+RewriteRule ^news$ page58737243.html [NC]
+RewriteRule ^news/$ page58737243.html [NC]
+
+RewriteRule ^faq$ page58737245.html [NC]
+RewriteRule ^faq/$ page58737245.html [NC]
+
+RewriteRule ^about$ page58737251.html [NC]
+RewriteRule ^about/$ page58737251.html [NC]
+
+RewriteRule ^liquidity$ page58737249.html [NC]
+RewriteRule ^liquidity/$ page58737249.html [NC]
+
+RewriteRule ^contacts$ page58737253.html [NC]
+RewriteRule ^contacts/$ page58737253.html [NC]
+
+RewriteRule ^documents$ page58737255.html [NC]
+RewriteRule ^documents/$ page58737255.html [NC]
+
+RewriteRule ^account_types_old$ page59024063.html [NC]
+RewriteRule ^account_types_old/$ page59024063.html [NC]
+
+RewriteRule ^some-reviews$ page104945596.html [NC]
+RewriteRule ^some-reviews/$ page104945596.html [NC]
+
+RewriteRule ^news_10_03_2026$ page125421946.html [NC]
+RewriteRule ^news_10_03_2026/$ page125421946.html [NC]
+
+RewriteRule ^news_05_03_2026$ page124274356.html [NC]
+RewriteRule ^news_05_03_2026/$ page124274356.html [NC]
+
+RewriteRule ^news_24_02_2026$ page121475476.html [NC]
+RewriteRule ^news_24_02_2026/$ page121475476.html [NC]
+
+RewriteRule ^news_17_02_2026$ page119431456.html [NC]
+RewriteRule ^news_17_02_2026/$ page119431456.html [NC]
+
+RewriteRule ^news_12_02_2026$ page118404346.html [NC]
+RewriteRule ^news_12_02_2026/$ page118404346.html [NC]
+
+RewriteRule ^news_30_01_2026$ page114661766.html [NC]
+RewriteRule ^news_30_01_2026/$ page114661766.html [NC]
+
+RewriteRule ^news_15_01_2026$ page110527266.html [NC]
+RewriteRule ^news_15_01_2026/$ page110527266.html [NC]
+
+RewriteRule ^news_18_12_2025_1$ page105027706.html [NC]
+RewriteRule ^news_18_12_2025_1/$ page105027706.html [NC]
+
+RewriteRule ^news_18_12_2025$ page103405656.html [NC]
+RewriteRule ^news_18_12_2025/$ page103405656.html [NC]
+
+RewriteRule ^news_12_12_2025$ page103323046.html [NC]
+RewriteRule ^news_12_12_2025/$ page103323046.html [NC]
+
+RewriteRule ^news_01_12_2025$ page99911836.html [NC]
+RewriteRule ^news_01_12_2025/$ page99911836.html [NC]
+
+RewriteRule ^news_24_11_2025$ page97845386.html [NC]
+RewriteRule ^news_24_11_2025/$ page97845386.html [NC]
+
+RewriteRule ^news_14_11_2025$ page95115816.html [NC]
+RewriteRule ^news_14_11_2025/$ page95115816.html [NC]
+
+RewriteRule ^news_22_10_2025_1$ page88573536.html [NC]
+RewriteRule ^news_22_10_2025_1/$ page88573536.html [NC]
+
+RewriteRule ^news_22_10_2025$ page88490476.html [NC]
+RewriteRule ^news_22_10_2025/$ page88490476.html [NC]
+
+RewriteRule ^news_08_10_2025$ page84263186.html [NC]
+RewriteRule ^news_08_10_2025/$ page84263186.html [NC]
+
+RewriteRule ^news_30_09_2025$ page82254826.html [NC]
+RewriteRule ^news_30_09_2025/$ page82254826.html [NC]
+
+RewriteRule ^news_28_08_2025$ page74513177.html [NC]
+RewriteRule ^news_28_08_2025/$ page74513177.html [NC]
+
+RewriteRule ^news_21_08_2025$ page74199901.html [NC]
+RewriteRule ^news_21_08_2025/$ page74199901.html [NC]
+
+RewriteRule ^news_25_07_2025$ page72898423.html [NC]
+RewriteRule ^news_25_07_2025/$ page72898423.html [NC]
+
+RewriteRule ^news_01_07_2025$ page71702535.html [NC]
+RewriteRule ^news_01_07_2025/$ page71702535.html [NC]
+
+RewriteRule ^news_13_06_2025$ page70746613.html [NC]
+RewriteRule ^news_13_06_2025/$ page70746613.html [NC]
+
+RewriteRule ^news_22_05_2025$ page69420013.html [NC]
+RewriteRule ^news_22_05_2025/$ page69420013.html [NC]
+
+RewriteRule ^news_21_05_2025$ page69354665.html [NC]
+RewriteRule ^news_21_05_2025/$ page69354665.html [NC]
+
+RewriteRule ^news_13_05_2025$ page68808655.html [NC]
+RewriteRule ^news_13_05_2025/$ page68808655.html [NC]
+
+RewriteRule ^news_30_04_2025$ page68021697.html [NC]
+RewriteRule ^news_30_04_2025/$ page68021697.html [NC]
+
+RewriteRule ^news_10_04_2025$ page66747211.html [NC]
+RewriteRule ^news_10_04_2025/$ page66747211.html [NC]
+
+RewriteRule ^news_03_04_2025$ page66243875.html [NC]
+RewriteRule ^news_03_04_2025/$ page66243875.html [NC]
+
+RewriteRule ^news_05_03_2025$ page64417959.html [NC]
+RewriteRule ^news_05_03_2025/$ page64417959.html [NC]
+
+RewriteRule ^news_12_02_2025$ page63087055.html [NC]
+RewriteRule ^news_12_02_2025/$ page63087055.html [NC]
+
+RewriteRule ^news_11_02_2025$ page62641021.html [NC]
+RewriteRule ^news_11_02_2025/$ page62641021.html [NC]
+
+RewriteRule ^news_10_02_2025$ page62947653.html [NC]
+RewriteRule ^news_10_02_2025/$ page62947653.html [NC]
+
+RewriteRule ^news_08_01_2025$ page61039621.html [NC]
+RewriteRule ^news_08_01_2025/$ page61039621.html [NC]
+
+RewriteRule ^news_25_12_2024$ page60618467.html [NC]
+RewriteRule ^news_25_12_2024/$ page60618467.html [NC]
+
+RewriteRule ^news_18_12_2024$ page60253399.html [NC]
+RewriteRule ^news_18_12_2024/$ page60253399.html [NC]
+
+RewriteRule ^news_16_12_2024$ page60115743.html [NC]
+RewriteRule ^news_16_12_2024/$ page60115743.html [NC]
+
+RewriteRule ^news_02_12_2024$ page59277609.html [NC]
+RewriteRule ^news_02_12_2024/$ page59277609.html [NC]
+
+RewriteRule ^news_20_11_2024$ page59087719.html [NC]
+RewriteRule ^news_20_11_2024/$ page59087719.html [NC]
+
+RewriteRule ^news_11_11_2024$ page59087721.html [NC]
+RewriteRule ^news_11_11_2024/$ page59087721.html [NC]
+
+RewriteRule ^news_25_10_2024$ page59087723.html [NC]
+RewriteRule ^news_25_10_2024/$ page59087723.html [NC]
+
+RewriteRule ^news_24_10_2024$ page59087725.html [NC]
+RewriteRule ^news_24_10_2024/$ page59087725.html [NC]
+
+RewriteRule ^news_29_08_2024$ page59087727.html [NC]
+RewriteRule ^news_29_08_2024/$ page59087727.html [NC]
+
+RewriteRule ^news_01_07_2024$ page59087731.html [NC]
+RewriteRule ^news_01_07_2024/$ page59087731.html [NC]
+
+RewriteRule ^news_07_06_2024$ page59087735.html [NC]
+RewriteRule ^news_07_06_2024/$ page59087735.html [NC]
+
+RewriteRule ^news_29_05_2024$ page59087739.html [NC]
+RewriteRule ^news_29_05_2024/$ page59087739.html [NC]
+
+RewriteRule ^news_26_04_2024$ page59087749.html [NC]
+RewriteRule ^news_26_04_2024/$ page59087749.html [NC]
+
+RewriteRule ^news_27_03_2024$ page59087753.html [NC]
+RewriteRule ^news_27_03_2024/$ page59087753.html [NC]
+
+RewriteRule ^news_26_03_2024$ page59094837.html [NC]
+RewriteRule ^news_26_03_2024/$ page59094837.html [NC]
+
+RewriteRule ^news_15_03_2024$ page59094839.html [NC]
+RewriteRule ^news_15_03_2024/$ page59094839.html [NC]
+
+RewriteRule ^news_08_03_2024$ page59094841.html [NC]
+RewriteRule ^news_08_03_2024/$ page59094841.html [NC]
+
+RewriteRule ^news_16_02_2024$ page59094849.html [NC]
+RewriteRule ^news_16_02_2024/$ page59094849.html [NC]
+
+RewriteRule ^news_29_12_2023$ page59094851.html [NC]
+RewriteRule ^news_29_12_2023/$ page59094851.html [NC]
+
+RewriteRule ^news_26_12_2023$ page59094855.html [NC]
+RewriteRule ^news_26_12_2023/$ page59094855.html [NC]
+
+RewriteRule ^news_21_12_2023$ page59094859.html [NC]
+RewriteRule ^news_21_12_2023/$ page59094859.html [NC]
+
+RewriteRule ^news_19_12_2023$ page59094863.html [NC]
+RewriteRule ^news_19_12_2023/$ page59094863.html [NC]
+
+RewriteRule ^news_12_12_2023$ page59094865.html [NC]
+RewriteRule ^news_12_12_2023/$ page59094865.html [NC]
+
+RewriteRule ^news_11_12_2023$ page59094869.html [NC]
+RewriteRule ^news_11_12_2023/$ page59094869.html [NC]
+
+RewriteRule ^news_04_12_2023$ page59094871.html [NC]
+RewriteRule ^news_04_12_2023/$ page59094871.html [NC]
+
+RewriteRule ^news_24_11_2023$ page59094877.html [NC]
+RewriteRule ^news_24_11_2023/$ page59094877.html [NC]
+
+RewriteRule ^news_21_11_2023$ page59094883.html [NC]
+RewriteRule ^news_21_11_2023/$ page59094883.html [NC]
+
+RewriteRule ^news_14_11_2023$ page59094885.html [NC]
+RewriteRule ^news_14_11_2023/$ page59094885.html [NC]
+
+RewriteRule ^news_25_10_2023$ page59094889.html [NC]
+RewriteRule ^news_25_10_2023/$ page59094889.html [NC]
+
+RewriteRule ^news_06_09_2023$ page59094891.html [NC]
+RewriteRule ^news_06_09_2023/$ page59094891.html [NC]
+
+RewriteRule ^news_29_08_2023$ page59094897.html [NC]
+RewriteRule ^news_29_08_2023/$ page59094897.html [NC]
+
+RewriteRule ^news_15_08_2023$ page59094901.html [NC]
+RewriteRule ^news_15_08_2023/$ page59094901.html [NC]
+
+RewriteRule ^news_30_06_2023$ page59094903.html [NC]
+RewriteRule ^news_30_06_2023/$ page59094903.html [NC]
+
+RewriteRule ^news_25_05_2023_2$ page59094913.html [NC]
+RewriteRule ^news_25_05_2023_2/$ page59094913.html [NC]
+
+RewriteRule ^news_25_05_2023$ page59094917.html [NC]
+RewriteRule ^news_25_05_2023/$ page59094917.html [NC]
+
+RewriteRule ^news_10_05_2023$ page59094921.html [NC]
+RewriteRule ^news_10_05_2023/$ page59094921.html [NC]
+
+RewriteRule ^news_13_04_2023$ page59094927.html [NC]
+RewriteRule ^news_13_04_2023/$ page59094927.html [NC]
+
+RewriteRule ^news_04_04_2023$ page59094931.html [NC]
+RewriteRule ^news_04_04_2023/$ page59094931.html [NC]
+
+RewriteRule ^news_08_03_2023$ page59094933.html [NC]
+RewriteRule ^news_08_03_2023/$ page59094933.html [NC]
+
+RewriteRule ^news_16_02_2023$ page59094935.html [NC]
+RewriteRule ^news_16_02_2023/$ page59094935.html [NC]
+
+RewriteRule ^news_14_02_2023$ page59094939.html [NC]
+RewriteRule ^news_14_02_2023/$ page59094939.html [NC]
+
+RewriteRule ^news_10_01_2023$ page59094941.html [NC]
+RewriteRule ^news_10_01_2023/$ page59094941.html [NC]
+
+RewriteRule ^news_20_12_2022$ page59094943.html [NC]
+RewriteRule ^news_20_12_2022/$ page59094943.html [NC]
+
+RewriteRule ^news_23_11_2022$ page59094945.html [NC]
+RewriteRule ^news_23_11_2022/$ page59094945.html [NC]
+
+RewriteRule ^news_27_10_2022$ page59094949.html [NC]
+RewriteRule ^news_27_10_2022/$ page59094949.html [NC]
+
+RewriteRule ^news_31_08_2022$ page59094953.html [NC]
+RewriteRule ^news_31_08_2022/$ page59094953.html [NC]
+
+RewriteRule ^news_30_06_2022$ page59094955.html [NC]
+RewriteRule ^news_30_06_2022/$ page59094955.html [NC]
+
+RewriteRule ^news_14_06_2022$ page59094959.html [NC]
+RewriteRule ^news_14_06_2022/$ page59094959.html [NC]
+
+RewriteRule ^news_26_05_2022$ page59094961.html [NC]
+RewriteRule ^news_26_05_2022/$ page59094961.html [NC]
+
+RewriteRule ^news_14_04_2022$ page59094963.html [NC]
+RewriteRule ^news_14_04_2022/$ page59094963.html [NC]
+
+RewriteRule ^news_10_03_2022$ page59094965.html [NC]
+RewriteRule ^news_10_03_2022/$ page59094965.html [NC]
+
+RewriteRule ^news_18_02_2022$ page59094969.html [NC]
+RewriteRule ^news_18_02_2022/$ page59094969.html [NC]
+
+RewriteRule ^news_23_12_2021$ page59094971.html [NC]
+RewriteRule ^news_23_12_2021/$ page59094971.html [NC]
+
+RewriteRule ^news_22_11_2021$ page59094975.html [NC]
+RewriteRule ^news_22_11_2021/$ page59094975.html [NC]
+
+RewriteRule ^news_29_10_2021$ page59094977.html [NC]
+RewriteRule ^news_29_10_2021/$ page59094977.html [NC]
+
+RewriteRule ^news_31_03_2021$ page59094979.html [NC]
+RewriteRule ^news_31_03_2021/$ page59094979.html [NC]
+
+RewriteRule ^news_07_09_2020$ page59094983.html [NC]
+RewriteRule ^news_07_09_2020/$ page59094983.html [NC]
+
+RewriteRule ^news_03_07_2020$ page59094985.html [NC]
+RewriteRule ^news_03_07_2020/$ page59094985.html [NC]
+
+RewriteRule ^news_28_05_2020$ page59094989.html [NC]
+RewriteRule ^news_28_05_2020/$ page59094989.html [NC]
+
+RewriteRule ^news_21_05_2020$ page59095009.html [NC]
+RewriteRule ^news_21_05_2020/$ page59095009.html [NC]
+
+RewriteRule ^news_30_04_2020$ page59094991.html [NC]
+RewriteRule ^news_30_04_2020/$ page59094991.html [NC]
+
+RewriteRule ^news_16_04_2020$ page59094993.html [NC]
+RewriteRule ^news_16_04_2020/$ page59094993.html [NC]
+
+RewriteRule ^news_08_04_2020$ page59094995.html [NC]
+RewriteRule ^news_08_04_2020/$ page59094995.html [NC]
+
+RewriteRule ^news_30_03_2020$ page59094997.html [NC]
+RewriteRule ^news_30_03_2020/$ page59094997.html [NC]
+
+RewriteRule ^news_05_03_2020$ page59095005.html [NC]
+RewriteRule ^news_05_03_2020/$ page59095005.html [NC]
+
+RewriteRule ^news_25_02_2020$ page59095007.html [NC]
+RewriteRule ^news_25_02_2020/$ page59095007.html [NC]
+
+RewriteRule ^clientagreement$ page59108855.html [NC]
+RewriteRule ^clientagreement/$ page59108855.html [NC]
+
+RewriteRule ^partneragreement$ page59108859.html [NC]
+RewriteRule ^partneragreement/$ page59108859.html [NC]
+
+RewriteRule ^brokerlicence$ page59108861.html [NC]
+RewriteRule ^brokerlicence/$ page59108861.html [NC]
+
+RewriteRule ^terms_of_use$ page59108863.html [NC]
+RewriteRule ^terms_of_use/$ page59108863.html [NC]
+
+RewriteRule ^antimoneylaunderingpolicy$ page59108867.html [NC]
+RewriteRule ^antimoneylaunderingpolicy/$ page59108867.html [NC]
+
+RewriteRule ^kycpolicy$ page59108871.html [NC]
+RewriteRule ^kycpolicy/$ page59108871.html [NC]
+
+RewriteRule ^riskdisclosure$ page59108873.html [NC]
+RewriteRule ^riskdisclosure/$ page59108873.html [NC]
+
+RewriteRule ^gdprpolicy$ page59108875.html [NC]
+RewriteRule ^gdprpolicy/$ page59108875.html [NC]
+
+RewriteRule ^bonusf$ page59108881.html [NC]
+RewriteRule ^bonusf/$ page59108881.html [NC]
+
+RewriteRule ^complaints-policy$ page125243616.html [NC]
+RewriteRule ^complaints-policy/$ page125243616.html [NC]
+
+RewriteRule ^prop-challenge$ page102851196.html [NC]
+RewriteRule ^prop-challenge/$ page102851196.html [NC]
+
+RewriteRule ^prop-challenge-policy$ page103506186.html [NC]
+RewriteRule ^prop-challenge-policy/$ page103506186.html [NC]
+
+RewriteRule ^prop-challenge-terms$ page103474226.html [NC]
+RewriteRule ^prop-challenge-terms/$ page103474226.html [NC]
+
+RewriteRule ^newyear111$ page104943016.html [NC]
+RewriteRule ^newyear111/$ page104943016.html [NC]
+
+RewriteRule ^newyear111-thanks$ page104943036.html [NC]
+RewriteRule ^newyear111-thanks/$ page104943036.html [NC]
+
+RewriteRule ^newyear111-policy$ page104943056.html [NC]
+RewriteRule ^newyear111-policy/$ page104943056.html [NC]
+
+RewriteRule ^welcome-bonus$ page110800336.html [NC]
+RewriteRule ^welcome-bonus/$ page110800336.html [NC]
+
+RewriteRule ^welcome-bonus-privacy-policy$ page110800346.html [NC]
+RewriteRule ^welcome-bonus-privacy-policy/$ page110800346.html [NC]
+
+RewriteRule ^welcome-bonus-thank-you$ page110800376.html [NC]
+RewriteRule ^welcome-bonus-thank-you/$ page110800376.html [NC]
+
+RewriteRule ^prop-trading$ page113930696.html [NC]
+RewriteRule ^prop-trading/$ page113930696.html [NC]
+
+RewriteRule ^spring128$ page119294946.html [NC]
+RewriteRule ^spring128/$ page119294946.html [NC]
+
+RewriteRule ^spring128-thanks$ page119294976.html [NC]
+RewriteRule ^spring128-thanks/$ page119294976.html [NC]
+
+RewriteRule ^spring128-policy$ page119295026.html [NC]
+RewriteRule ^spring128-policy/$ page119295026.html [NC]
+
+RewriteRule ^bonus150$ page123148696.html [NC]
+RewriteRule ^bonus150/$ page123148696.html [NC]
+
+RewriteRule ^bonus150-thanks$ page123148716.html [NC]
+RewriteRule ^bonus150-thanks/$ page123148716.html [NC]
+
+RewriteRule ^bonus150-politika$ page123148726.html [NC]
+RewriteRule ^bonus150-politika/$ page123148726.html [NC]
+
+
